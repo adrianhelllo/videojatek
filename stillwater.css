@@ -1,7 +1,7 @@
 body {
     background-image: url(kepek/dark-background-abstract-background-network-3d-background-3840x2160-8324.png);
     background-size: cover;
-    color: rgb(255, 2555, 255);
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     max-width: 1000px;
     text-align: center
@@ -32,10 +32,13 @@ h1 {
 }
 h2 {
     padding: 20px;
-    margin: 10px;
-    background-color: #333;
-    border-radius: 5%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: darkgray;
+    border-radius: 5%
 }
-p { text-align: justify;
+p {
+    text-align: justify;
     font-size: 15px;
-    font-family: 'Rockwell', serif; }
+    font-family: 'Rockwell', sans-serif
+}
