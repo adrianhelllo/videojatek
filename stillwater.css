@@ -54,3 +54,8 @@ p {
     background-color: greenyellow;
     padding: 100px
 }
+
+.tarolo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
